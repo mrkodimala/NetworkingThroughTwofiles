@@ -1,0 +1,7 @@
+This programs execute only if you create these files at the specifed location
+f:\server.bin
+f:\client.bin
+
+please create these  files by running the following commands
+fsutil file createnew server.bin 1024
+fsutil file createnew client.bin 1024
